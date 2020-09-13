@@ -7,6 +7,10 @@ body{
       color: #66BFBF;
   }
 
+  img {
+  border-radius: 50%;
+}
+
   hr{
     background-color: white;
     border-style: none;
